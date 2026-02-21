@@ -1,8 +1,8 @@
 /*
 KELOMPOK 6
 Pembelian Tiket Pesawat
-Anggota 1 : Arya Rayi Ananta_2400358
-Anggota 2 : Azmi Muhammad Rizki_2406434
+Anggota 1 : Arya Rayi Ananta
+Anggota 2 : Azmi Muhammad Rizki
 */
 
 #include <stdio.h>
